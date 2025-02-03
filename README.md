@@ -1,4 +1,4 @@
-# My Technical Writing Samples
+# Fredrick Walter James's Technical Writing Samples
 
 Welcome to my technical writing portfolio. Below are three concise samples showcasing my ability to communicate complex ideas in a clear, organized style.
 
